@@ -1,0 +1,6 @@
+(library
+ (inline_tests)
+ (name day_nn)
+ (modules Day_nn)
+ (preprocess
+  (pps ppx_inline_test)))

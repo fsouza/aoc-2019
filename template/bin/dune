@@ -1,0 +1,9 @@
+(executable
+ (name part1)
+ (libraries day_nn)
+ (modules Part1))
+
+(executable
+ (name part2)
+ (libraries day_nn)
+ (modules Part2))
